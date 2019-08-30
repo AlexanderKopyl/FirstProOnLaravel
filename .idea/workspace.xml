@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4592676-d0a3-4d6f-92b7-9c21584260a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/myDoc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/BlogCategory.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BlogCategory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/category/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/categories/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/category/includes/item_edit_add_col.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/categories/includes/item_edit_add_col.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/category/includes/item_edit_main_col.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/categories/includes/item_edit_main_col.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/category/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/categories/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +34,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -60,6 +66,12 @@
       <workItem from="1566479736700" duration="716000" />
       <workItem from="1566480474939" duration="5855000" />
       <workItem from="1566540423578" duration="15672000" />
+      <workItem from="1566886294193" duration="578000" />
+      <workItem from="1566886874467" duration="752000" />
+      <workItem from="1566887727877" duration="15338000" />
+      <workItem from="1566986280128" duration="13946000" />
+      <workItem from="1567085399759" duration="2476000" />
+      <workItem from="1567160850354" duration="3891000" />
     </task>
     <servers />
   </component>
@@ -71,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
