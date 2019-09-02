@@ -47,3 +47,7 @@ public function run()
   });
 }
 </pre>
+<p>Создание реквеста</p>
+<pre>
+php artisan make:request BlogCategoryUpdateRequest
+</pre>
